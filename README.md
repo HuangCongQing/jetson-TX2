@@ -49,7 +49,7 @@ QQ交流群： 783137763
 ### Reference
 
 * [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
-
+* https://github.com/jetsonhacks
 
 ### License
 
