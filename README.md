@@ -2,6 +2,7 @@
 Something about Jetson TX1/TX2.
 
 QQ交流群： 783137763
+
 大家有什么疑问，也可以提[**【Issue】**](https://github.com/HuangCongQing/jetson-something/issues)，大家一起解决。
 ### Installation
 
@@ -21,6 +22,12 @@ QQ交流群： 783137763
 另官网安装步骤：https://github.com/jetsonhacks/installTensorFlowTX2
 
 ### Something
+
+* [有人用opencv打开过TX2板载摄像头么？](https://github.com/HuangCongQing/jetson-something/issues/5)
+* [有人扩展过外接ssd吗 。有没有合适的推荐？ ](https://github.com/HuangCongQing/jetson-something/issues/4)
+* [有没有在tx2上安装过tensorflow的啊，为什么我源码安装总是出错，有没有比较好的教程 ](https://github.com/HuangCongQing/jetson-something/issues/3)
+* [jetpack包下载的时候一直失败怎么办？](https://github.com/HuangCongQing/jetson-something/issues/2)
+* [运行.run文件并输入密码后，它将进入JetPack L4T组件管理器，但该进程没有显示任何内容并出现错误,一直卡在那。 ](https://github.com/HuangCongQing/jetson-something/issues/1)
 
 
 
