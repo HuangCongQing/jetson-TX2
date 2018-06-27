@@ -6,6 +6,7 @@ QQ交流群： 783137763
 ### Installation
 
 视频教程：https://v.qq.com/x/page/b0515967lbr.html
+
 理论上JetPack3.0，JetPack3.1下载需要NVIDIA的帐号。
 为了下载方便，我给出JetPack3.0，JetPack3.1百度云链接：
 链接：https://pan.baidu.com/s/1kW5DgEF 密码：eu4q
@@ -19,7 +20,7 @@ QQ交流群： 783137763
 
 ### Something
 
-大家有什么疑问，也可以提[Issue](https://github.com/HuangCongQing/jetson-something/issues)，大家一起解决。
+大家有什么疑问，也可以提[**Issue**](https://github.com/HuangCongQing/jetson-something/issues)，大家一起解决。
 
 ### TODO
 请问有小伙伴用jetpack3.2装tensorflow吗
