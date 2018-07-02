@@ -44,6 +44,8 @@ QQ交流群： 783137763
 
 您好，我想买一套tx2的开发套件，请问这个套件是否支持cameralink接口和srio接口
 
+请问有人做过tx2的can吗？ 我在tx2上做本机回环，一直是bus off。。
+
 ### Articles
 
 
