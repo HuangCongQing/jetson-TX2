@@ -1,6 +1,11 @@
 # jetson-something
 Something about Jetson TX1/TX2.
 
+普及：
+* jetson tx2是英伟达的第三代GPU嵌入式开发板 前两代分别是jetson tk1和jetson tx1.
+* Xavier：迄今为止发明的最复杂的SOC（最强嵌入式GPU板）
+
+
 QQ交流群： 783137763
 
 大家有什么疑问，也可以提[**【Issue】**](https://github.com/HuangCongQing/jetson-something/issues)，大家一起解决。
