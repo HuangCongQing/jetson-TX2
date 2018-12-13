@@ -67,7 +67,7 @@ QQ交流群： 783137763
 
 * [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
 * https://github.com/jetsonhacks
-
+* https://github.com/NVIDIA-AI-IOT
 ### License
 
 Copyright (c) [ChungKing](https://github.com/HuangCongQing). All rights reserved.
