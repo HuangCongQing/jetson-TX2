@@ -19,9 +19,9 @@ QQ交流群： 783137763
 
 ----
 
-[01-NVIDIA Jetson TX2开箱上电显示界面](https://www.jianshu.com/p/bd84600c886a)
+[01-NVIDIA Jetson TX2开箱上电显示界面](https://mp.weixin.qq.com/s/-txE9jjzqraEkPTYH1WHjQ)
 
-[02-NVIDIA Jetson TX2 通过JetPack 3.1刷机完整版（踩坑版）](https://www.jianshu.com/p/bb4587014349)
+[02-NVIDIA Jetson TX2 通过JetPack 3.1刷机完整版（踩坑版）](https://mp.weixin.qq.com/s/I3WY_ebhYBFjmIUkEG0_og)
 
 
 另官网安装步骤：https://github.com/jetsonhacks/installTensorFlowTX2
