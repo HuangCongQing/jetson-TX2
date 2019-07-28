@@ -1,5 +1,7 @@
 # jetson-something
 Something about Jetson TX1/TX2.
+**其他时候辅助，官方文档最好**
+https://developer.nvidia.com/
 
 普及：
 * jetson tx2是英伟达的第三代GPU嵌入式开发板 前两代分别是jetson tk1和jetson tx1.
