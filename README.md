@@ -1,6 +1,6 @@
 # jetson-something
 Something about Jetson TX1/TX2.
-**其他时候辅助，官方文档最好**
+* **其他资料辅助，官方文档最好**
 https://developer.nvidia.com/
 
 普及：
