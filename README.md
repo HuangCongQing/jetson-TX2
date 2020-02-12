@@ -1,4 +1,4 @@
-# jetson-something
+# jetson-TX2
 Something about Jetson TX1/TX2.
 * **其他资料辅助，官方文档最好**
 https://developer.nvidia.com/
